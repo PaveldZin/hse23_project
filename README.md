@@ -23,4 +23,8 @@
 
 ## Работа с blastp
 Выбранные аминокислотные последовательности для каждого гистона и белка сохранены в папке data
+### E-value
+![E-value](https://github.com/PaveldZin/bioinf_project/assets/87602071/31dac259-f466-4bc1-9284-509c34af540d)
+## -log(E-value)
+![-log E-value](https://github.com/PaveldZin/bioinf_project/assets/87602071/cd018d80-9c06-4dd0-9186-47ce16aa8a48)
 
