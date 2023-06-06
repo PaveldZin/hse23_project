@@ -29,4 +29,5 @@
 ![-log E-value](https://github.com/PaveldZin/bioinf_project/assets/87602071/cd018d80-9c06-4dd0-9186-47ce16aa8a48)
 ## Тепловая карта
 ![heatmap](https://github.com/PaveldZin/bioinf_project/assets/87602071/ad3ca02e-6ccb-49f1-bf5c-2cfe5ca4d2f5)
+
 Вывод - белок появился в период одноклеточных эукариот.
